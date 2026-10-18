@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Vera Cruz, Michael C. 👋
 
-<!--
-**Chaelwop/Chaelwop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student | Aspiring Web Developer**
 
-Here are some ideas to get you started:
+I'm an Information Technology student passionate about learning programming, building websites, and exploring new technologies. I'm continuously improving my coding skills and working on projects that help me grow as a future developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Currently studying Information Technology
+- 🌱 Learning web development and programming
+- 💡 Interested in building useful and user-friendly applications
+- 🚀 Working on improving my skills through personal and school projects
+- 🎯 Goal: Become a skilled and professional developer
+
+### 🛠️ Technologies I'm Learning
+- HTML & CSS
+- JavaScript
+- PHP & Laravel
+- Java
+- Git & GitHub
